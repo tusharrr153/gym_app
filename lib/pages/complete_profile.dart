@@ -86,7 +86,7 @@ class _CompleteProfileState extends State<CompleteProfile> {
             child: Column(
               children: [
                 Image.asset(
-                  "assets/image/complete_profile.png",
+                  "assets/img/complete_profile.png",
                   width: media.width,
                   fit: BoxFit.fitWidth,
                 ),

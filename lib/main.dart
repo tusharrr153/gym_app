@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
           {
             return HomePage();
           }else{
-          return  HomePage();
+          return  SplashScreen();
         }
       },)
     );

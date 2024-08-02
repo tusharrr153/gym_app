@@ -39,7 +39,7 @@ class _TopTabViewScreenState extends State<TopTabViewScreen>
         preferredSize: const Size.fromHeight(50.0),
         child: AppBar(
           backgroundColor: TColor.secondary,
-          titleSpacing: -40,
+          titleSpacing: -110,
           title: TabBar(
             controller: controller,
             isScrollable: true,
